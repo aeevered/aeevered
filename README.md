@@ -7,11 +7,11 @@ I enjoy working on technical solutions and using data to inform high impact proj
 ### 📚 Projects
 
 Examples of the types of projects I work on:
-
-* [Image classification](https://github.com/aeevered/emergency_response_image_detection) of flood damaged buildings to aid in disaster response.
   
 * [Spatial data analysis](https://github.com/aeevered/philadelphia-solar-analysis) of rooftop solar to inform clean energy policy and business decisions.
-  
+
+* [Image classification](https://github.com/aeevered/emergency_response_image_detection) of flood damaged buildings to aid in disaster response.
+
 * [Data visualization](https://github.com/aeevered/diabetes-data-visualizations) of diabetes data for use in company [blog post](https://www.tidepool.org/blog/celebrating-10000-donations).
 
 * [Risk simulation animations](https://github.com/aeevered/continuous-glucose-monitor-analysis) of continuous glucose monitor data.
