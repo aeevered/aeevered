@@ -6,7 +6,7 @@ I enjoy working on technical solutions and using data to inform high impact proj
 
 ### 📚 Projects
 
-Examples of the types of projects I work on:
+Examples of the types of projects I've worked on:
 
 * [Image classification](https://github.com/aeevered/emergency_response_image_detection) of flood damaged buildings to aid in disaster response.
   
