@@ -20,7 +20,7 @@ Examples of the types of projects I work on:
 
 ### 🛠️ Tools
 
-Python | SQL | R | dbt | Snowflake | Tableau
+Python | SQL | R | dbt | Snowflake
 
 ### 💻 Connect
 Interested in connecting? Message me on [LinkedIn](https://www.linkedin.com/in/anne-evered/).
