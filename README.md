@@ -14,7 +14,7 @@ Examples of the types of projects I work on:
 
 * [Data visualization](https://github.com/aeevered/diabetes-data-visualizations) of diabetes data for use in company [blog post](https://www.tidepool.org/blog/celebrating-10000-donations).
 
-* [Risk simulation animations](https://github.com/aeevered/continuous-glucose-monitor-analysis) of continuous glucose monitor data.
+* [Data simulation animations](https://github.com/aeevered/continuous-glucose-monitor-analysis) of continuous glucose monitor data for FDA risk assessment submission.
   
 * [Data science team handbook](https://github.com/aeevered/data-science-handbook) outlining team processes, resources, and coding conventions.
 
