@@ -8,7 +8,7 @@ I enjoy working on technical solutions and using data to inform high impact proj
 
 Examples of the types of projects I work on:
   
-* [Spatial data analysis](https://github.com/aeevered/philadelphia-solar-analysis) of rooftop solar to inform clean energy policy and business decisions.
+* [Spatial data analysis](https://github.com/aeevered/philadelphia-solar-analysis) of rooftop solar to inform local clean energy policy.
 
 * [Image classification](https://github.com/aeevered/emergency_response_image_detection) of flood damaged buildings to support disaster response.
 
