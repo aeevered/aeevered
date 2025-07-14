@@ -18,6 +18,8 @@ Examples of the types of projects I work on:
   
 * [Data science team handbook](https://github.com/aeevered/data-science-handbook) outlining team processes, resources, and coding conventions.
 
+* (In Progress) [Streamlit app](https://github.com/aeevered/plan-compare) health insurance plan comparison tool.
+
 ### 🛠️ Tools
 
 Python | SQL | R | dbt | Snowflake
